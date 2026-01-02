@@ -1,10 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-[![Laravel CI](https://github.com/Kanzcr/laravel-ecommerce/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/Kanzcr/laravel-ecommerce/actions/workflows/jekyll-docker.yml)
+[![Laravel CI](https://github.com/Kanzcr/laravel-ecommerce/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/Kanzcr/laravel-ecommerce/actions/workflows/laravel.yml)
 
 ## Laravel Ecommerce Project
 
-## Features
+## Featuresgi
 
 ## User Dashboard
 Explore and manage your orders and account details with a user-friendly dashboard.
